@@ -18,3 +18,4 @@
 
 \* Робота з Issues та автоматичне закриття задач через коміти
 
+<img width="1314" height="696" alt="image" src="https://github.com/user-attachments/assets/95b8d78b-c09a-479f-b1bf-20fb4d51495e" />
